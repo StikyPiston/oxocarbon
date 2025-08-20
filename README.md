@@ -113,6 +113,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Light/Dark] btop](https://gist.github.com/gideonmt/cf8561cb130e3ca859f8a5471014e933)
 * [[Dark] Fuzzel](https://github.com/kuripa/oxocarbon-fuzzel)
 * [[Light/Dark] JankyBorders](https://gist.github.com/ethanuppal/384976fcb454cfcf81d8d12815dddce0)
+* [[Dark] Tauon](https://github.com/val-byte/Oxocarbon-Tauon-MB)
 
 </details>
 
